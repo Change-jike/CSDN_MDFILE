@@ -34,7 +34,8 @@ lambda 内部类局部变量值为什么不能被修改和强制修改
 内部类外面的局部变量不能被重复赋值否则会报错　为什么?
 
 在内部类里面不能修改局部类外面定义的变量的值　为什么？  
-![](https://i-blog.csdnimg.cn/blog_migrate/f7ffdbfe20f913df8a82e96315167336.png)
+![image](https://github.com/user-attachments/assets/5c733fbd-b5eb-4e84-854d-cd01e3d8afa0)
+
 
 ### 原因分析
 
