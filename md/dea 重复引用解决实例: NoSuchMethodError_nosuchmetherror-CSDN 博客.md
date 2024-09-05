@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/qq_43371422/article/details/137474108?spm=1001.2014.3001.5502)
+![image](https://github.com/user-attachments/assets/5144b406-45e4-4472-a2b4-b9a1375ff859)> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [blog.csdn.net](https://blog.csdn.net/qq_43371422/article/details/137474108?spm=1001.2014.3001.5502)
 
 前言
 
@@ -10,11 +10,13 @@
 ![image](https://github.com/user-attachments/assets/a3e87c97-b561-4d46-8bf9-cec559403a49)
 **1.2** **maven** **管理工具查找冲突**
 
-![](https://i-blog.csdnimg.cn/blog_migrate/01f2fe5bfe0648dc2eceea784f2c36c8.png#pic_center)
+![image](https://github.com/user-attachments/assets/399d5fc9-87ea-4136-ae9c-044d1e80e77f)
+
 
 **1.3 修改** **pom** **引用统一版本，解决问题；**
 
-![](https://i-blog.csdnimg.cn/blog_migrate/22995023826a5ad7041bd5fac7cdb010.png#pic_center)
+![image](https://github.com/user-attachments/assets/77d54671-6b52-42fb-bf59-74732e4c0bd8)
+
 
 #### 2、更多问题排查、解决、了解；
 
