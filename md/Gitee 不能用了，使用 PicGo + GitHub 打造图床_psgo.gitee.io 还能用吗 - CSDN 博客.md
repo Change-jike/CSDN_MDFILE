@@ -27,7 +27,8 @@
 
 就无脑安装就好了！！！
 
-![](https://i-blog.csdnimg.cn/blog_migrate/b9689339ace0f9199c7b446cb813aa43.png)
+![image](https://github.com/user-attachments/assets/638c99ee-d9c3-4fc9-9a61-962f90dc7227)
+
 
 #### 二、 GitHub 图床
 
@@ -37,21 +38,27 @@
 
 1.  就在头像旁边的 **+** 里面。
 
-![](https://i-blog.csdnimg.cn/blog_migrate/842e5805e64daaa7086fc8b5e8ff4e08.png)
+![image](https://github.com/user-attachments/assets/8f8c5dc9-5a83-4a72-8ccc-c4a2368c46b0)
+
 
 2.  填一下信息，点击创建
 
-![](https://i-blog.csdnimg.cn/blog_migrate/6e7505a4f91b511ceb29b3254b9e41af.png)
+![image](https://github.com/user-attachments/assets/dd544820-ab26-4820-8534-8a253292567f)
+
 
 3.  生成一个 Token 用于访问 GitHub 的图床
 
-![](https://i-blog.csdnimg.cn/blog_migrate/2522fd06a2ac0e51713d798655b2168e.png)
+![image](https://github.com/user-attachments/assets/a018f046-e863-4f6e-a7df-e77f8f75869e)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/e9e7e931040ccb725ce134d70b2c8893.png)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/6779efe544404303825429f24dbe319d.png)
+![image](https://github.com/user-attachments/assets/a983f379-ce2a-4b6e-97ac-b27597418a75)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/2f3a04598dd2796613cdfcc91857108f.png)
+
+![image](https://github.com/user-attachments/assets/e1438f8b-0220-4678-9961-ba15eb062cc5)
+
+
+![image](https://github.com/user-attachments/assets/81260b24-0987-4bd2-bd9e-434b65b168e2)
+
 
 4.  **Token** 可一定要保存呀
 
@@ -59,7 +66,8 @@
 
 **注：创建成功后，会生成一串 token，这串 token 之后不会再显示，所以第一次看到的时候，可以建个文本文件好好保存，忘记了只有重新生成，每次都不一样。**
 
-![](https://i-blog.csdnimg.cn/blog_migrate/f9040f28d7cd73238383ba759b2ebb1e.png)
+![image](https://github.com/user-attachments/assets/650eac13-3d50-4df4-96f1-2e0876eb3a34)
+
 
 #### 三、 配置 PicGO
 
@@ -73,7 +81,8 @@
 *   第四行储存路径可以不写
 *   第五行自定义域名：就是 PicGo 会将 “自定义域名 + 上传的图片名” 生成的访问链接，放到剪切板上，自定义域名需要按照这样去填写：https://raw.githubusercontent.com / 账户名 / 仓库名 / master，那比如我的就是 https://cdn.jsdelivr.net/gh/XXXXe-jike/XXXCat-Img
 
-![](https://i-blog.csdnimg.cn/blog_migrate/0087888b3a04dd62e5a2b6d61a3b3a07.png)
+![image](https://github.com/user-attachments/assets/8ef70bc2-2eb1-4eb2-8a6b-6003574f711a)
+
 
 #### 四、 进阶 Typora 自动上传图片
 
@@ -81,4 +90,4 @@
 
 打开 Typora > 文件 > 偏好设置 >
 
-![](https://i-blog.csdnimg.cn/blog_migrate/c9157b765cac22af07bbbca5463c09e3.png)
+![image](https://github.com/user-attachments/assets/e4725c51-ee02-47bd-a9d2-ec2a10637be2)
