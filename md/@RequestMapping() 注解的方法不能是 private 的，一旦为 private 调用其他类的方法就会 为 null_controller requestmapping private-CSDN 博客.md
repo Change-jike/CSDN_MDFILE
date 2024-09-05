@@ -6,7 +6,8 @@
 
 当在使用 `@RequestMapping` 注解（或其他类似的注解，如 `@GetMapping`、`@PostMapping` 等）时，被注解的方法不能设置为 `private` 私有访问权限，因为这将导致 Spring 框架无法访问和调用该方法。这样会导致在处理 HTTP 请求时出现问题，因为 Spring 无法触发该方法来处理请求。相反，它应该至少是 `protected` 受保护的、 `package-private` （默认，即不写访问修饰符）或者 `public` 公共的访问权限。
 
-![](https://i-blog.csdnimg.cn/blog_migrate/035274e09654b00f7309249a2c5faadf.png)
+![image](https://github.com/user-attachments/assets/b1d0ca7c-1781-4666-b95f-cfffcbb3ecad)
+
 
 ##### 原因：
 
