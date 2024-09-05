@@ -7,8 +7,7 @@
 ### 1、例：**idea 重复引用解决实例: NoSuchMethodError**
 
 **1.1 确定重复引用问题:**  
-![](https://i-blog.csdnimg.cn/blog_migrate/c006d2edec9cfad8fe0a7e237cd240e8.png#pic_center)
-
+![image](https://github.com/user-attachments/assets/a3e87c97-b561-4d46-8bf9-cec559403a49)
 **1.2** **maven** **管理工具查找冲突**
 
 ![](https://i-blog.csdnimg.cn/blog_migrate/01f2fe5bfe0648dc2eceea784f2c36c8.png#pic_center)
