@@ -2,7 +2,8 @@
 
 **报错信息：**
 
-![](https://i-blog.csdnimg.cn/blog_migrate/71a17cd2113d2827c25c707c5577bffc.png)
+![image](https://github.com/user-attachments/assets/caede8c0-2926-43de-b3ad-b5a2dcc7a273)
+
 
 **命令行运行**
 
@@ -11,7 +12,8 @@ wsl --update // 更新 WSL
 
 ```
 
-![](https://i-blog.csdnimg.cn/blog_migrate/8e36027e904529b0ff7922d5e7729240.png)
+![image](https://github.com/user-attachments/assets/f49d5891-0fd0-4aa9-b9d9-c6a1cc391b8d)
+
 
 **如果启动 docker 还是报连接错误，命令行执行以下命令并重启**
 
