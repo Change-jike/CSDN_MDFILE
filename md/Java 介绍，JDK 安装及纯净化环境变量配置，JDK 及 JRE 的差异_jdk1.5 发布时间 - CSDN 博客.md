@@ -45,15 +45,16 @@ Java元年 1995年
 
 ```
 
-![](https://i-blog.csdnimg.cn/blog_migrate/9293dbca0b2a0caa73b65ffc7b6930db.png)
+![image](https://github.com/user-attachments/assets/0c497536-3419-4851-8ed4-09fbc4f974e0)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/85c6061da08d55ad08e85bc0f54dea57.png)
+![image](https://github.com/user-attachments/assets/15715312-9c6d-4896-9bc9-02a7135cad64)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/0092a408f7f50e28087578e7f658b150.png)
+![image](https://github.com/user-attachments/assets/058861f3-4ad9-4ffb-8df8-21ad46016944)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/283624159f5c4afc21526975ceee51a4.png)
+![image](https://github.com/user-attachments/assets/f4af9edc-f07a-4f1c-9450-f869307c74f6)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/f4bfd58b56d9146c8efec4212cdae4b9.png)
+![image](https://github.com/user-attachments/assets/9cce6f64-2dc4-4814-a6a2-c3a72286f9eb)
+
 
 ###### 1.4 JDK 和 JRE 名词解释
 
@@ -72,7 +73,8 @@ JRE:
 
 ###### 1.5 JDK 安装目录结构
 
-![](https://i-blog.csdnimg.cn/blog_migrate/76f13b375efd93c1fc9957202bda1982.png)
+![image](https://github.com/user-attachments/assets/2d56d304-f777-4ef0-9843-41c40312509b)
+
 
 ```
 bin:
@@ -116,7 +118,8 @@ JAVA_HOME 配置
 
 ```
 
-![](https://i-blog.csdnimg.cn/blog_migrate/02059b1ca90c145ca1fd4ec2e1d2d7de.png)
+![image](https://github.com/user-attachments/assets/7bfd97fd-a553-4368-b516-123965ab6d39)
+
 
 ###### 1.6.2 CLASS_PATH 配置
 
@@ -131,8 +134,8 @@ CLASS_PATH 配置
 	从 . 开始复制，保证在变量值中，没有任何的空格
 
 ```
+![image](https://github.com/user-attachments/assets/16525f3f-2454-4723-aef3-356bc97249e7)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/88cc03669bb2267e50a07707ff0eef2e.png)
 
 ###### 1.6.3 系统变量 Path 修改
 
@@ -145,9 +148,10 @@ CLASS_PATH 配置
 
 ```
 
-![](https://i-blog.csdnimg.cn/blog_migrate/61a80234793727e7847a74ce1a1e9bd2.png)
+![image](https://github.com/user-attachments/assets/1d6e1c2a-f5b1-4230-afcb-404fd03fff63)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/892512c08fe56909ae785e78422a2b27.png)
+![image](https://github.com/user-attachments/assets/c16b49bf-8096-4c03-92b5-e651e858be23)
+
 
 ###### 1.6.4 测试环境变量配置情况
 
@@ -156,6 +160,7 @@ CLASS_PATH 配置
 
 ```
 
-![](https://i-blog.csdnimg.cn/blog_migrate/9a78b8537da4c90a6d2a58fc9428c379.png)
+![image](https://github.com/user-attachments/assets/3060af7d-d3ce-4fd4-a804-9a4c51e6b2ed)
 
-![](https://i-blog.csdnimg.cn/blog_migrate/5bdbaa29dde3459e601824020bfdce5e.png)
+
+![image](https://github.com/user-attachments/assets/8af13d0b-1c92-4dd8-996c-78063dfcba80)
